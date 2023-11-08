@@ -4,17 +4,17 @@
     {
       "label": "phone",
       "width": 375,
-      "height": 8000
+      "height": 10000
     },
     {
       "label": "tablet",
       "width": 1024,
-      "height": 5500
+      "height": 6500
     },
     {
       "label": "desktop",
       "width": 1920,
-      "height": 6000
+      "height": 10000
     }
   ],
   "onBeforeScript": "puppet/onBefore.js",
@@ -55,7 +55,488 @@
       "playwrightOptions": {
         "fullPage": true
       }
+    },
+    {
+      "label": "Neve 3",
+      "url": "https://demosites.io/neve-3-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Recipes Blog",
+      "url": "https://demosites.io/recipes-blog-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "NFT Illustrator",
+      "url": "https://demosites.io/nft-illustrator-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 2000,
+      "misMatchThreshold": 0.1,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Real Estate Agency",
+      "url": "https://demosites.io/real-estate-agency-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Podcast",
+      "url": "https://demosites.io/podcast-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "misMatchThreshold": 0.01,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Fitness",
+      "url": "https://demosites.io/fitness-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Travel Agency",
+      "url": "https://demosites.io/zelle-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Photography",
+      "url": "https://demosites.io/rokophoto-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Architecture",
+      "url": "https://demosites.io/architecture-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 3000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Architecture Studio",
+      "url": "https://demosites.io/architecture-studio-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 3000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Wedding",
+      "url": "https://demosites.io/wedding-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Nonprofit",
+      "url": "https://demosites.io/nonprofit-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Web Agency Pro",
+      "url": "https://demosites.io/web-agency-pro-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0.1,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Yoga Studio",
+      "url": "https://demosites.io/yoga-studio-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "University",
+      "url": "https://demosites.io/university-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Lawyers",
+      "url": "https://demosites.io/lawyers-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Job Board",
+      "url": "https://demosites.io/job-board-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Resume 2",
+      "url": "https://demosites.io/resume-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Web Developer",
+      "url": "https://demosites.io/web-developer-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Vacation Rental",
+      "url": "https://demosites.io/vacation-rental-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 2000,
+      "misMatchThreshold": 0.1,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Coding School",
+      "url": "https://demosites.io/coding-school-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Finance Blog",
+      "url": "https://demosites.io/finance-blog-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Conference",
+      "url": "https://demosites.io/conference-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Industrial",
+      "url": "https://demosites.io/industrial-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Jewellery Shop",
+      "url": "https://demosites.io/jewellery-shop-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 2000,
+      "misMatchThreshold": 0.01,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Product Launch",
+      "url": "https://demosites.io/product-launch-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "misMatchThreshold": 0.1,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Business",
+      "url": "https://demosites.io/business-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Accounting",
+      "url": "https://demosites.io/accounting-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Fishing and Hunting Club",
+      "url": "https://demosites.io/fishing-club-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Personal Blog",
+      "url": "https://demosites.io/personal-blog-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Restaurant",
+      "url": "https://demosites.io/restaurant-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Speed",
+      "url": "https://demosites.io/speed-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Pet Shop",
+      "url": "https://demosites.io/pet-shop-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Fitness Trainer",
+      "url": "https://demosites.io/fitness-trainer-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0.1,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Drone",
+      "url": "https://demosites.io/drone-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Craft Beer",
+      "url": "https://demosites.io/craft-beer-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 2000,
+      "misMatchThreshold": 0.01,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Music Band",
+      "url": "https://demosites.io/music-band-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 2000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Medicare",
+      "url": "https://demosites.io/medicare-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 5000,
+      "misMatchThreshold": 0.01,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Audio Books",
+      "url": "https://demosites.io/audio-books-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
+    },
+    {
+      "label": "Museum",
+      "url": "https://demosites.io/museum-gb/?optml_off=true",
+      "selectors": ["body"],
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 1000,
+      "misMatchThreshold": 0,
+      "playwrightOptions": {
+        "fullPage": true
+      }
     }
+
   ],
   "paths": {
     "bitmaps_reference": "backstop_data/bitmaps_reference",
